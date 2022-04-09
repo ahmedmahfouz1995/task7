@@ -1,0 +1,29 @@
+Name :Marsden Johnston
+gender :Male
+Email :fovimek@mailinator.com
+password :Pa$$w0rd!
+TITLE :Qui id earum deserun
+linkedin :http://localhost/php%20task/task7/task7.php
+Content :Veniam delectus vo
+disPath :uploads/16494813351379166939.jpeg
+Name :Ahmed Mahfouz
+gender :Male
+Email :geo.mahfoz@gmail.com
+password :01014579278
+linkedin :https://www.linkedin.com/in/ahmed-mahfouz-8891ba129/
+Content :this my task i hope you like it
+disPath :uploads/1649481574632516228.jpeg
+Name :Ahmed Mahfouz
+gender :Male
+Email :geo.mahfoz@gmail.com
+password :nqqqqqqqqq
+linkedin :https://www.linkedin.com/in/ahmed-mahfouz-8891ba129/
+Content :this my task i hope you like it
+disPath :uploads/16494816911318864734.jpeg
+Name :Ahmed Mahfouz
+gender :Male
+Email :geo.mahfoz@gmail.com
+password :nmkkkkkkkkkkkkk
+linkedin :https://www.linkedin.com/in/ahmed-mahfouz-8891ba129/
+Content :sdshfnjmldgnngugsgjksgsgsmgsf
+disPath :uploads/16494819231340444970.jpeg

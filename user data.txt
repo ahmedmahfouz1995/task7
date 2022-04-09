@@ -1,0 +1,8 @@
+Name :Ahmed Mahfouz
+gender :Male
+Email :geo.mahfoz@gmail.com
+password :aaaaaaaaaaaaaaaaaaaaaaaaaa
+TITLE :this is my task using php for Nti 
+linkedin :https://www.linkedin.com/in/ahmed-mahfouz-8891ba129/
+Content :this is my task using php for Nti  i hope you like it
+disPath :uploads/16494856541703601927.jpeg

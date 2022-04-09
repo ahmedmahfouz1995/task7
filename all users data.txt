@@ -1,0 +1,77 @@
+Name :Ahmed Mahfouz
+gender :Male
+Email :geo.mahfoz@gmail.com
+password :kkkkkkkkkkkkkkkkkk
+TITLE :kkkkkkkkkkkkkkkkkooooooooooooooo
+linkedin :https://www.linkedin.com/in/ahmed-mahfouz-8891ba129/
+Content :sdshfnjmldgnngugsgjksgsgsmgsf
+disPath :uploads/1649485303972229238.jpeg
+
+
+
+
+
+Name :Ahmed Mahfouz
+gender :Male
+Email :geo.mahfoz@gmail.com
+TITLE :kkkkkkkkkkkkkkkkkooooooooooooooo
+linkedin :https://www.linkedin.com/in/ahmed-mahfouz-8891ba129/
+Content :sdshfnjmldgnngugsgjksgsgsmgsf
+disPath :uploads/1649485389100283745.jpeg
+
+
+
+
+
+Name :Ahmed Mahfouz
+gender :Male
+Email :geo.mahfoz@gmail.com
+password :,,,,,,,,,,,,,,,,,,,,
+TITLE :kkkkkkkkkkkkkkkkkooooooooooooooo
+linkedin :https://www.linkedin.com/in/ahmed-mahfouz-8891ba129/
+Content :sdshfnjmldgnngugsgjksgsgsmgsf
+disPath :uploads/1649485400473670638.jpeg
+
+
+
+
+
+Name :Ahmed Mahfouz
+gender :Male
+Email :geo.mahfoz@gmail.com
+password :sdddddddddd
+TITLE :ddddddddddddddddddddddddddddddddd
+linkedin :https://www.linkedin.com/in/ahmed-mahfouz-8891ba129/
+Content :sdshfnjmldgnngugsgjksgsgsmgsf
+disPath :uploads/1649485475225436225.jpeg
+
+
+
+
+
+Name :Ahmed Mahfouz
+gender :FeMale
+Email :geo.mahfoz@gmail.com
+password :sssssssssssssssssss
+TITLE :sssssssssssssssssssssssssss
+linkedin :https://www.linkedin.com/in/ahmed-mahfouz-8891ba129/
+Content :sdshfnjmldgnngugsgjksgsgsmgsf
+disPath :uploads/16494855441302149679.jpeg
+
+
+
+
+
+Name :Ahmed Mahfouz
+gender :Male
+Email :geo.mahfoz@gmail.com
+password :aaaaaaaaaaaaaaaaaaaaaaaaaa
+TITLE :this is my task using php for Nti 
+linkedin :https://www.linkedin.com/in/ahmed-mahfouz-8891ba129/
+Content :this is my task using php for Nti  i hope you like it
+disPath :uploads/16494856541703601927.jpeg
+
+
+
+
+
